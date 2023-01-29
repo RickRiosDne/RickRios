@@ -26,7 +26,7 @@ Aqui estão algumas idéias para você começar:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <br>
 ​
-Coded with ❤️ by Rick Rios 👋🏽 Get in contact!
+Codificado de ❤️ por Rick Rios 👋🏽 Entre em contato!
 <br>
 ​
 [![Gmail Badge](https://img.shields.io/badge/-rick.rios@dne.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rick.rios@onebox.one)](mailto:rick.rios@dne.com.br)
